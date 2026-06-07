@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 🚀 **2nd Year Tech Student** | Building Full Stack & AI/ML Solutions  
 🎹 Music Enthusiast (Piano, Harmonium, Tabla, Singing)
 
