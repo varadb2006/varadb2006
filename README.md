@@ -42,20 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Varad's GitHub stats](https://github-readme-stats.vercel.app/api?username=varadb2006&show_icons=true&theme=synthwave&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varadb2006&layout=compact&theme=synthwave&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=varadb2006&color=FF006E&style=for-the-badge)
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -79,6 +65,8 @@
 ---
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=varadb2006&color=FF006E&style=for-the-badge)
 
 ⭐ **Building amazing projects, one line of code at a time** ⭐
 
